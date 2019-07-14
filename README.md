@@ -1,4 +1,4 @@
-# Tomorrow Previews
+# Previews
 
 ## Tomorrow
 
