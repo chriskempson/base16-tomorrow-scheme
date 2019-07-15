@@ -14,7 +14,3 @@
 
 ![tomorrow-night-eighties scheme preview](./png/tomorrow-night-eighties.png)
 
-
-## Tomorrow Night Bright
-
-![tomorrow-night-bright scheme preview](./png/tomorrow-night-bright.png)
